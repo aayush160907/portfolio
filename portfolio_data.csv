@@ -1,0 +1,61 @@
+SECTION,FIELD,VALUE
+BIO,Full Name,Aayush Rajesh Sutar
+BIO,Age,18
+BIO,Institution,MIT Academy of Engineering (MIT AOE)
+BIO,Affiliation,An Autonomous Institute Affiliated to SPPU
+BIO,Location,"Alandi (D), Pune – 412105"
+BIO,Branch,Computer Science and Engineering (Data Science)
+BIO,Year,First Year (FY BTech)
+BIO,Academic Year,2025-26
+BIO,Semester,II
+BIO,About,"First-year CS Data Science student passionate about artificial intelligence and building intelligent systems. Exploring the intersection of data and machine learning."
+
+CONTACT,Email,aayushsutar1609@gmail.com
+CONTACT,LinkedIn,https://www.linkedin.com/in/aayush-sutar
+CONTACT,GitHub,https://github.com/aayushsutar
+CONTACT,Contact Form,Available on portfolio website
+
+PROJECTS,Project 01 — Title,AI Smart Assistant
+PROJECTS,Project 01 — Description,"An intelligent virtual assistant powered by AI that understands natural language queries and provides contextual, helpful responses. Designed to automate routine tasks and improve productivity."
+PROJECTS,Project 01 — Technologies,"Python, NLP, AI"
+PROJECTS,Project 01 — Status,Developed
+
+PROJECTS,Project 02 — Title,AI Medical Chatbot
+PROJECTS,Project 02 — Description,"A conversational AI chatbot tailored for medical queries. Helps users understand symptoms, medications, and general health guidance using trained AI models with safe and informative responses."
+PROJECTS,Project 02 — Technologies,"Python, AI/ML, Healthcare"
+PROJECTS,Project 02 — Status,Developed
+
+PROJECTS,Project 03 — Title,Calculator
+PROJECTS,Project 03 — Description,"A clean and functional calculator application built with a focus on UI/UX precision and responsive design. Supports standard arithmetic operations with keyboard input and smooth interactions."
+PROJECTS,Project 03 — Technologies,"JavaScript, HTML, CSS"
+PROJECTS,Project 03 — Status,Developed
+
+SKILLS IN DEVELOPMENT,Language,Python
+SKILLS IN DEVELOPMENT,Completion (%),86
+SKILLS IN DEVELOPMENT,Level,Advanced
+SKILLS IN DEVELOPMENT,Status,In Progress
+
+SKILLS IN DEVELOPMENT,Language,C++
+SKILLS IN DEVELOPMENT,Completion (%),79
+SKILLS IN DEVELOPMENT,Level,Intermediate
+SKILLS IN DEVELOPMENT,Status,In Progress
+
+SKILLS IN DEVELOPMENT,Language,JavaScript
+SKILLS IN DEVELOPMENT,Completion (%),78
+SKILLS IN DEVELOPMENT,Level,Intermediate
+SKILLS IN DEVELOPMENT,Status,In Progress
+
+SKILLS IN DEVELOPMENT,Language,CSS
+SKILLS IN DEVELOPMENT,Completion (%),67
+SKILLS IN DEVELOPMENT,Level,Intermediate
+SKILLS IN DEVELOPMENT,Status,In Progress
+
+ASSIGNMENT,Course,Creative Technologies
+ASSIGNMENT,Instructor,Suyoga Bansode
+ASSIGNMENT,Module,Web Technology Digital Portfolio
+ASSIGNMENT,Date Submitted,15 April 2026
+ASSIGNMENT,Marks Possible,15
+ASSIGNMENT,CO No.,3
+ASSIGNMENT,Format No.,MITAOE/ACAD/INST/18/A
+ASSIGNMENT,Revision,1.1
+ASSIGNMENT,Revision Date,02/01/2020
